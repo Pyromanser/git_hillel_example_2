@@ -1,5 +1,4 @@
-# git_hillel_example_2
+# git_hillel_example
 
 
 Hello
-
